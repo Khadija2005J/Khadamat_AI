@@ -15,3 +15,8 @@ venv/
 .DS_Store
 Thumbs.db
 .vscode/
+
+# Generated audio files (TTS responses, scans, tests)
+response_*.mp3
+scan_*.mp3
+test_output_*.mp3
